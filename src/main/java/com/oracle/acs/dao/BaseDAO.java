@@ -19,8 +19,10 @@ public class BaseDAO {
     
     @PostConstruct
     public void init(){
-    	System.out.println("Post constructed BaseDAO....");
+    	System.out.println("Post constructed BaseDAO..............");
     }
+    
+    
     
     
     public Long carpmaToplamaWithLeak() {
